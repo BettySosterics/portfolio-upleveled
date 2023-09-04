@@ -17,7 +17,9 @@ function Home() {
             <h1 data-test-id="pageTitle" className="title">
               Hi, my name is Betty
             </h1>
-            <p className="description">I am a software developer in progress</p>
+            <p className="description">
+              I am a software developer in progress | Vienna
+            </p>
 
             <Link href="/contact" className="cta">
               contact me here
